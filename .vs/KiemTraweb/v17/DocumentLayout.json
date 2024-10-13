@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|e:\\thuc hanh lap trinh web\\kiemtraweb\\views\\home\\ancientarchitecture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|solutionrelative:views\\home\\ancientarchitecture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|e:\\thuc hanh lap trinh web\\kiemtraweb\\views\\home\\photoshooteffect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|solutionrelative:views\\home\\photoshooteffect.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|e:\\thuc hanh lap trinh web\\kiemtraweb\\content\\img\\ancient-architecture.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|solutionrelative:content\\img\\ancient-architecture.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|e:\\thuc hanh lap trinh web\\kiemtraweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|e:\\thuc hanh lap trinh web\\kiemtraweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B461A9F4-7EE7-4A4F-9D42-8A043A661C41}|KiemTraweb.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:17:12.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ancient-architecture.css",
+              "DocumentMoniker": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Content\\img\\ancient-architecture.css",
+              "RelativeDocumentMoniker": "Content\\img\\ancient-architecture.css",
+              "ToolTip": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Content\\img\\ancient-architecture.css",
+              "RelativeToolTip": "Content\\img\\ancient-architecture.css",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T13:16:44.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ancientarchitecture.cshtml",
+              "DocumentMoniker": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Views\\Home\\ancientarchitecture.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ancientarchitecture.cshtml",
+              "ToolTip": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Views\\Home\\ancientarchitecture.cshtml",
+              "RelativeToolTip": "Views\\Home\\ancientarchitecture.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:13:54.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "photoshooteffect.cshtml",
+              "DocumentMoniker": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Views\\Home\\photoshooteffect.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\photoshooteffect.cshtml",
+              "ToolTip": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Views\\Home\\photoshooteffect.cshtml",
+              "RelativeToolTip": "Views\\Home\\photoshooteffect.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:13:14.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Thuc Hanh Lap Trinh WEB\\KiemTraweb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:12:30.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
